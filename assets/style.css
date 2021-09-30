@@ -1,0 +1,24 @@
+h1 {
+    color: black;
+    background-color: rgba(146, 192, 252, 0.925);
+    font-family: 'lato', sans-serif;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#box { 
+    width: 100px; 
+    height: 120px;
+    position: absolute; 
+    top: 200px; 
+}
+
+#box img {
+    height: 120px;
+    width: 100px;
+}
+
+body {
+    background-image: url('https://64.media.tumblr.com/4041e9f54accee2eb348f3a2fb6af207/tumblr_oj7kzs6uit1qeyvpto1_500.gifv');
+    background-size: 100vw 100vh;
+}
